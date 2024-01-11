@@ -16,4 +16,4 @@ Main
 
 EnsembleModel
   - Runs the 4 models with their parameters found in the main and runs an ensemble method
-  - there are three methods to make the model: Equal Vote, Summed Probabilities, and a Neural Network
+  - There are 3 methods to make the model: Equal Vote, Summed Probabilities, and a Neural Network
